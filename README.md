@@ -1,4 +1,4 @@
 # hellow-world
 learning about GitHub
-# i am Kevin Cheng.
+# i am KC.
 yrd
